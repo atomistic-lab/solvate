@@ -17,7 +17,7 @@ Or install the development version directly from GitHub:
 
 .. code-block:: bash
 
-    git clone https://github.com/maicos-devel/solvate.git
+    git clone https://github.com/atomistic-lab/solvate.git
     cd solvate
     pip install -e .
 
