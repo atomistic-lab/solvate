@@ -23,16 +23,16 @@ pip install solvate
 Or clone the repository and install it manually:
 
 ```bash
-git clone https://github.com/maicos-devel/solvate.git
+git clone https://github.com/atomistic-lab/solvate.git
 cd solvate
 pip install .
 ```
 
 # Usage
 
-See the [documentation](https://maicos-devel.github.io/solvate/) for detailed usage instructions and examples.
+See the [documentation](https://atomistic-lab.github.io/solvate/) for detailed usage instructions and examples.
 
-Also check out the [examples](https://github.com/maicos-devel/solvate/tree/main/examples) directory for practical use cases.
+Also check out the [examples](https://github.com/atomistic-lab/solvate/tree/main/examples) directory for practical use cases.
 
 # Contributing
 

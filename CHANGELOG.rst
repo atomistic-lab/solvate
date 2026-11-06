@@ -14,6 +14,8 @@ The rules for solvate's CHANGELOG file:
 Unreleased
 ----------
 
+- Update repository URLs after the GitHub organization rename to
+  ``atomistic-lab``
 - Fix linting issues (#24)
 - Update GitHub Actions to ``checkout@v7`` and ``setup-python@v7`` (#24)
 
