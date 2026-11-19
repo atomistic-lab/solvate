@@ -17,6 +17,11 @@ Henrik Stooß
 
 - Add Zenodo DOI badge and citation info to README and documentation (#22)
 
+- Update repository URLs after the GitHub organization rename to
+  ``atomistic-lab``
+- Fix linting issues (#24)
+- Update GitHub Actions to ``checkout@v7`` and ``setup-python@v7`` (#24)
+
 v0.1.0 (2026/05/26)
 -------------------
 Henrik Stooß, Philip Loche, Kira Fischer
